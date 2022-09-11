@@ -15,17 +15,17 @@
 ***
 ## Description
 
-This project [Developer Landing Page]() was built using Semantic HTML and CSS. The main aim was to make the webpage responsive for all major devices.The difficulty was faced while making webpage responsive with **@media queries**. Making the webpage responsive was way time-consuming but I learnt alot. Also learnt about various flexbox properties and handling different sections on a webpage. The Project was completed under guidance of [Hitesh Choudhary](https://github.com/hiteshchoudhary), CTO Ineuron
+This project [Developer Landing Page](https://develop-page.netlify.app/) was built using Semantic HTML and CSS. The main aim was to make the webpage responsive for all major devices.The difficulty was faced while making webpage responsive with **@media queries**. Making the webpage responsive was way time-consuming but I learnt alot. Also learnt about various flexbox properties and handling different sections on a webpage. The Project was completed under guidance of [Hitesh Choudhary](https://github.com/hiteshchoudhary), CTO Ineuron
 
 ***
 
 ### Links for Project
 
-* [LIVE Project Link]()
+* [LIVE Project Link](https://develop-page.netlify.app/)
 
-* [Youtube Video Demo]()
+* [Youtube Video Demo](https://youtu.be/A7p1N5-r9EA)
 
-* [Source Code]()
+* [Source Code](https://github.com/ShubhamSingh03/Developer-Landing-Page)
 
 ***
 ### Built With 
@@ -98,16 +98,15 @@ This project [Developer Landing Page]() was built using Semantic HTML and CSS. T
 
 ### Checkout Portfolio & Other Projects
 
-#### [Personal Portfolio]()
+#### [Personal Portfolio](https://shubhambhoj.in/)
 
-#### [Findcoder Profile]()
+#### [Findcoder Profile](https://www.findcoder.io/u/shubham_singh)
 ***
 
 ### Connect with Me
 * [Mailto](mailto:shubhambhoj3@gmail.com)
-* [LinkedIn]()
-* [Github]()
-* [Findcoder]()
+* [LinkedIn](https://www.linkedin.com/in/shubham-singh-b122b7171/)
+* [Github](https://github.com/ShubhamSingh03)
 ***
 ***
 [go to top](#developer-landing-page)
